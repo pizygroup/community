@@ -1,0 +1,19 @@
+body:
+- type: textarea
+  attributes:
+    label: Assunto
+    description: Como podemos te ajudar?
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Informações adicionais
+    description: Quaisquer trechos de código, mensagens de erro ou detalhes de dependência que possam estar relacionados?
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: Exemplo
+    description: Um link para uma reprodução mínima é útil para depuração colaborativa!
+  validations:
+    required: false
