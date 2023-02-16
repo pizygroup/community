@@ -3,7 +3,7 @@
     <img src="https://pizy.vercel.app/pizy-group-logo-not-filled.png" height="96">
     <h3 align="center">PIZY Group</h3>
   </a>
-  <p align="center">Codificando o futuro juntos.</p>
+  <p align="center">Inovando o futuro a cada linha de código.</p>
 </p>
 
 # Fala dev!
