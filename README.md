@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://pizy.vercel.app">
-    <img src="https://pizy.vercel.app/pizy-group-logo-not-filled.png" height="96">
+  <a href="https://pizy.group">
+    <img src="https://pizy.group/pizy-group-logo-not-filled.png" height="96">
     <h3 align="center">PIZY Group</h3>
   </a>
   <p align="center">Inovando o futuro a cada linha de código.</p>
