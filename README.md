@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pizy.group">
-    <img src="https://pizy.group/pizy-group-logo-not-filled.png" height="96">
+    <img src="https://raw.githubusercontent.com/pizygroup/community/main/assets/icons/pizygroup-icon-300x300.png" height="150">
     <h3 align="center">PIZY Group</h3>
   </a>
   <p align="center">Inovando o futuro a cada linha de código.</p>
