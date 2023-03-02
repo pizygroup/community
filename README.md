@@ -41,20 +41,20 @@ Se vocês tiverem alguma dúvida, feedback ou sugestão, não hesitem em compart
 
 ### Acompanhem o processo ⏳
 
-* GitHub: [@pizygroup](https://github.com/pizygroup)
-* Instagram: [@pizygroup](https://instagram.com/pizygroup/)
-* Twitter: [@pizygroup](https://twitter.com/pizygroup)
-* Facebook: [@pizygroup](https://facebook.com/pizygroup)
+- Discord: [pizygroup](https://discord.gg/TW3zMrtjNV)
+- GitHub: [@pizygroup](https://github.com/pizygroup)
+- Instagram: [@pizygroup](https://instagram.com/pizygroup/)
+- Twitter: [@pizygroup](https://twitter.com/pizygroup)
+- Facebook: [@pizygroup](https://facebook.com/pizygroup)
+- LinkedIn: [@pizygroup](https://www.linkedin.com/company/pizygroup)
 
 ### "Qual o link da plataforma de vocês?"
 
-Está no ar a `versão 0.0.0.1`, com um funcionamento base (login e perfil; design antigo), pois as ideias da plataforma ainda não estavam muito bem definidas. Há alguns meses, **estamos trabalhando em cima do que pode ser apresentado à vocês**, porque não queremos começar deixando a desejar.
+Há alguns meses, **estamos trabalhando em cima do que pode ser apresentado à vocês**, porque não queremos começar deixando a desejar. Portanto, **pedimos paciência para conseguirmos fazer uma pesquisa mais avançada** sobre _features_ que seriam legais para estarem presentes na mesma.
 
-Portanto, **pedimos paciência para conseguirmos fazer uma pesquisa mais avançada** sobre _features_ que seriam legais para estarem presentes na mesma.
+**Em breve divulgaremos a caminhada de produção para o desenvolvimento da plataforma, juntamente com algumas telas que fazem parte do design da mesma.**
 
-Em breve divulgaremos a caminhada de produção para o desenvolvimento da plataforma, juntamente com algumas telas que fazem parte do design da mesma.
-
-Caso queiram dar uma olhada, acessem [**pizy.vercel.app**](https://pizy.vercel.app).
+A plataforma está hospedada em [**pizy.group**](https://pizy.group).
 
 ---
 
